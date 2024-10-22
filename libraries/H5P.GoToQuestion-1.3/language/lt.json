@@ -1,0 +1,32 @@
+{
+  "semantics": [
+    {
+      "description": "Klausimas, kuriuo remdamasis naudotojas pasirinks.",
+      "label": "Klausimo tekstas"
+    },
+    {
+      "entity": "pasirinkimas",
+      "field": {
+        "fields": [
+          {
+            "description": "Pavadinimas, kuris bus rodomas pasirinkimo mygtuke.",
+            "label": "Pasirinkimo tekstas"
+          },
+          {
+            "description": "Tikslo pasiekimo laikas, kuris vartotojui prasidės, kai paspaus pasirinkimo mygtuką. Įveskite laiko kodą formatu M:SS.",
+            "label": "Eiti į"
+          },
+          {
+            "description": "Neprivalomas patvirtinimo tekstas, kuris bus atvaizduojamas kai naudotojas paspaus pasirinkimo mygtuką.",
+            "label": "Jei pasirinktas tekstas"
+          }
+        ]
+      },
+      "label": "Pasirinkimai"
+    },
+    {
+      "default": "Tęsti",
+      "label": "Mygto \"Tęsti\" tekstas"
+    }
+  ]
+}

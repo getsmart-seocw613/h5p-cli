@@ -1,0 +1,10 @@
+package.json
+test
+package-lock.json
+README.md
+crowdin.yml
+.gitmodules
+.git
+.gitignore
+.travis.yml
+node_modules

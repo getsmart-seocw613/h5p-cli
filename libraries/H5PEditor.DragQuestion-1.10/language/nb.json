@@ -1,0 +1,20 @@
+{
+  "libraryStrings": {
+    "insertElement": "Legg til :type",
+    "done": "Ferdig",
+    "remove": "Fjern",
+    "image": "Bilde",
+    "text": "Tekstt",
+    "noTaskSize": "Start med å bestemme størrelsen på oppgavefeltet.",
+    "confirmRemoval": "Er du sikker på at du vil fjerne dette elementet?",
+    "backgroundOpacityOverridden": "Standard bakgrunnsvalg er overstyrt.",
+    "advancedtext": "Tekst",
+    "dropzone": "Slippsone",
+    "selectAll": "Velg alle",
+    "deselectAll": "Angre valg av alle",
+    "deleteTaskTitle": "Slett oppgave",
+    "cancel": "Avbryt",
+    "confirm": "Bekreft",
+    "ok": "Ok"
+  }
+}

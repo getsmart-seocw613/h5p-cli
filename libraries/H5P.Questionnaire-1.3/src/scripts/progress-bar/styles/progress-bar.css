@@ -1,0 +1,10 @@
+.h5p-questionnaire-progress-bar {
+  background: #153552;
+  height: 0.3em;
+}
+
+.h5p-questionnaire-progress-bar-current {
+  background: #ff6b00;
+  height:100%;
+  transition: width 0.25s ease-in-out;
+}

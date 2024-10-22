@@ -1,0 +1,42 @@
+{
+  "name": "simpleMultipleChoice",
+  "version": "1.0.0",
+  "description": "Create lightweight multiple choice for use inside content types",
+  "scripts": {
+    "build": "cross-env NODE_ENV='production' webpack",
+    "watch": "cross-env NODE_ENV='development' webpack --watch",
+    "dev": "webpack-dev-server --config webpack.dev.config.js -d --inline --hot --open"
+  },
+  "keywords": [
+    "lightweight",
+    "multiple choice",
+    "h5p",
+    "library"
+  ],
+  "author": "thomasmars",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/plugin-transform-object-assign": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/runtime-corejs2": "^7.0.0",
+    "autoprefixer": "^10.4.7",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-loader": "^8",
+    "cross-env": "^7.0.3",
+    "css-loader": "^6.7.1",
+    "exports-loader": "^4.0.0",
+    "expose-loader": "^4.0.0",
+    "file-loader": "^6.2.0",
+    "h5p-view": "^1.0.0",
+    "imports-loader": "^4.0.0",
+    "jasmine-core": "^4.2.0",
+    "json-loader": "^0.5.4",
+    "mini-css-extract-plugin": "^2.6.1",
+    "postcss-loader": "^7.2.4",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.76.0",
+    "webpack-cli": "^4.10.0"
+  }
+}

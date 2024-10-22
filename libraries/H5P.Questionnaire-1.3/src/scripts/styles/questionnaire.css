@@ -1,0 +1,33 @@
+.h5p-questionnaire {
+  font-family: "Open Sans", Calibri, Candara, Arial, sans-serif;
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+.h5p-questionnaire-element.hide {
+  display: none;
+}
+
+.h5p-questionnaire-content {
+  height: 100%;
+  width: 100%;
+  -webkit-flex: 1;
+  overflow: auto;
+}
+
+.h5p-questionnaire-element {
+  height: 100%;
+  width: 100%;
+}
+
+.h5p-invalid-questionnaire {
+  color: red;
+}
+
+.h5p-questionnaire .hide {
+  display: none;
+}

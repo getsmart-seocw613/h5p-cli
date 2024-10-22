@@ -1,0 +1,20 @@
+{
+  "libraryStrings": {
+    "insertElement": ":type დამატება",
+    "done": "მზადაა",
+    "remove": "წაშლა",
+    "image": "გამოსახულება",
+    "text": "ტექსტი",
+    "noTaskSize": "გთხოვთ, ჯერ მიუთითოთ დავალების ზომა.",
+    "confirmRemoval": "დარწმუნებული ხართ, რომ ამ ელემენტის წაშლა გსურთ?",
+    "backgroundOpacityOverridden": "ფონის გაუმჭვირვალობა გაუქმდება",
+    "advancedtext": "ტექსტი",
+    "dropzone": "განთავსების ზონა",
+    "selectAll": "ყველას მონიშვნა",
+    "deselectAll": "ყველა მონიშვნის გაუქმება",
+    "deleteTaskTitle": "ამოცანის წაშლა",
+    "cancel": "გაუქმება",
+    "confirm": "დადასტურება",
+    "ok": "OK"
+  }
+}

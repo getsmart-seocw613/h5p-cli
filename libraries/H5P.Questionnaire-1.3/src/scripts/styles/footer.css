@@ -1,0 +1,14 @@
+.h5p-questionnaire-footer {
+  background: #1F1F1F;
+  padding: 0.7em 1.2em;
+  display: inline-block;
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #404040;
+}
+.h5p-questionnaire-footer .h5p-questionnaire-button.next {
+  float: right;
+}
+.h5p-questionnaire-footer .h5p-questionnaire-button.previous {
+  float: left;
+}
