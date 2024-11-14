@@ -1,0 +1,53 @@
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/ajv/package.json[m[36m:[m    ".runkit_[1;31mexample.js[m"
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/ajv/package.json[m[36m:[m  "runkitExampleFilename": ".runkit_[1;31mexample.js[m",
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/colorette/README.md[m[36m:[m$ ./[1;31mexample.js[m --no-color | ./consumer.js
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/colorette/README.md[m[36m:[m$ NO_COLOR= ./[1;31mexample.js[m | ./consumer.js
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/find-up/index.d.ts[m[36m:[m	//                 └── [1;31mexample.js[m
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/find-up/index.d.ts[m[36m:[m	// [1;31mexample.js[m
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/find-up/readme.md[m[36m:[m                └── [1;31mexample.js[m
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/find-up/readme.md[m[36m:[m`[1;31mexample.js[m`
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/pkg-dir/index.d.ts[m[36m:[m	//                 └── [1;31mexample.js[m
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/pkg-dir/index.d.ts[m[36m:[m	// [1;31mexample.js[m
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/pkg-dir/readme.md[m[36m:[m                └── [1;31mexample.js[m
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/pkg-dir/readme.md[m[36m:[m// [1;31mexample.js[m
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/source-map-js/README.md[m[36m:[mconsumer.generatedPositionFor({ source: "[1;31mexample.js[m", line: 2, column: 10 })
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/source-map/README.md[m[36m:[mconsumer.generatedPositionFor({ source: "[1;31mexample.js[m", line: 2, column: 10 })
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/terser-webpack-plugin/node_modules/ajv/package.json[m[36m:[m    ".tonic_[1;31mexample.js[m"
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/terser-webpack-plugin/node_modules/ajv/package.json[m[36m:[m  "tonicExampleFilename": ".tonic_[1;31mexample.js[m",
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/terser/README.md[m[36m:[mterser [1;31mexample.js[m -c -m --mangle-props regex=/_$/
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/terser/README.md[m[36m:[m// [1;31mexample.js[m
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/terser/README.md[m[36m:[m$ terser [1;31mexample.js[m -c passes=2 -m --mangle-props
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/terser/README.md[m[36m:[m$ terser [1;31mexample.js[m -c passes=2 -m --mangle-props reserved=[foo_,bar_]
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/terser/README.md[m[36m:[m$ terser [1;31mexample.js[m -c passes=2 -m --mangle-props regex=/_$/
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/terser/README.md[m[36m:[m$ terser [1;31mexample.js[m -c passes=2 -m --mangle-props regex=/_$/,reserved=[bar_]
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/webpack/node_modules/ajv/package.json[m[36m:[m    ".tonic_[1;31mexample.js[m"
+[35mlibraries/H5PEditor.VerticalTabs-1.3/node_modules/webpack/node_modules/ajv/package.json[m[36m:[m  "tonicExampleFilename": ".tonic_[1;31mexample.js[m",
+[35mlibraries/Shepherd-1.0/node_modules/ajv/package.json[m[36m:[m    ".runkit_[1;31mexample.js[m"
+[35mlibraries/Shepherd-1.0/node_modules/ajv/package.json[m[36m:[m  "runkitExampleFilename": ".runkit_[1;31mexample.js[m",
+[35mlibraries/Shepherd-1.0/node_modules/colorette/README.md[m[36m:[m$ ./[1;31mexample.js[m --no-color | ./consumer.js
+[35mlibraries/Shepherd-1.0/node_modules/colorette/README.md[m[36m:[m$ NO_COLOR= ./[1;31mexample.js[m | ./consumer.js
+[35mlibraries/Shepherd-1.0/node_modules/find-up/index.d.ts[m[36m:[m	//                 └── [1;31mexample.js[m
+[35mlibraries/Shepherd-1.0/node_modules/find-up/index.d.ts[m[36m:[m	// [1;31mexample.js[m
+[35mlibraries/Shepherd-1.0/node_modules/find-up/readme.md[m[36m:[m                └── [1;31mexample.js[m
+[35mlibraries/Shepherd-1.0/node_modules/find-up/readme.md[m[36m:[m`[1;31mexample.js[m`
+[35mlibraries/Shepherd-1.0/node_modules/pkg-dir/index.d.ts[m[36m:[m	//                 └── [1;31mexample.js[m
+[35mlibraries/Shepherd-1.0/node_modules/pkg-dir/index.d.ts[m[36m:[m	// [1;31mexample.js[m
+[35mlibraries/Shepherd-1.0/node_modules/pkg-dir/readme.md[m[36m:[m                └── [1;31mexample.js[m
+[35mlibraries/Shepherd-1.0/node_modules/pkg-dir/readme.md[m[36m:[m// [1;31mexample.js[m
+[35mlibraries/Shepherd-1.0/node_modules/source-map/README.md[m[36m:[mconsumer.generatedPositionFor({ source: "[1;31mexample.js[m", line: 2, column: 10 })
+[35mlibraries/Shepherd-1.0/node_modules/terser-webpack-plugin/node_modules/ajv/package.json[m[36m:[m    ".tonic_[1;31mexample.js[m"
+[35mlibraries/Shepherd-1.0/node_modules/terser-webpack-plugin/node_modules/ajv/package.json[m[36m:[m  "tonicExampleFilename": ".tonic_[1;31mexample.js[m",
+[35mlibraries/Shepherd-1.0/node_modules/terser/README.md[m[36m:[mterser [1;31mexample.js[m -c -m --mangle-props regex=/_$/
+[35mlibraries/Shepherd-1.0/node_modules/terser/README.md[m[36m:[m// [1;31mexample.js[m
+[35mlibraries/Shepherd-1.0/node_modules/terser/README.md[m[36m:[m$ terser [1;31mexample.js[m -c passes=2 -m --mangle-props
+[35mlibraries/Shepherd-1.0/node_modules/terser/README.md[m[36m:[m$ terser [1;31mexample.js[m -c passes=2 -m --mangle-props reserved=[foo_,bar_]
+[35mlibraries/Shepherd-1.0/node_modules/terser/README.md[m[36m:[m$ terser [1;31mexample.js[m -c passes=2 -m --mangle-props regex=/_$/
+[35mlibraries/Shepherd-1.0/node_modules/terser/README.md[m[36m:[m$ terser [1;31mexample.js[m -c passes=2 -m --mangle-props regex=/_$/,reserved=[bar_]
+[35mlibraries/Shepherd-1.0/node_modules/webpack/node_modules/ajv/package.json[m[36m:[m    ".tonic_[1;31mexample.js[m"
+[35mlibraries/Shepherd-1.0/node_modules/webpack/node_modules/ajv/package.json[m[36m:[m  "tonicExampleFilename": ".tonic_[1;31mexample.js[m",
+[35mnode_modules/balanced-match/.npmignore[m[36m:[m[1;31mexample.js[m
+[35mnode_modules/balanced-match/README.md[m[36m:[m$ node [1;31mexample.js[m
+[35mnode_modules/safer-buffer/Porting-Buffer.md[m[36m:[m$ cat [1;31mexample.js[m
+[35mnode_modules/safer-buffer/Porting-Buffer.md[m[36m:[m$ node [1;31mexample.js[m
+[35mnode_modules/safer-buffer/Porting-Buffer.md[m[36m:[m    at Object.<anonymous> (/path/to/[1;31mexample.js[m:2:13)
+[35mnode_modules/source-map-js/README.md[m[36m:[mconsumer.generatedPositionFor({ source: "[1;31mexample.js[m", line: 2, column: 10 })
